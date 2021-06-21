@@ -1,0 +1,16 @@
+abi/
+artifacts/
+deployments/
+cache/
+deploy/
+coverage/
+exports/
+node_modules/
+types/
+spec/
+tasks/
+package-lock.json
+coverage.json
+.env
+.DS_Store
+*.lock
